@@ -1,3 +1,8 @@
+> **Current seven-repository documentation map — 2026-11-16 UTC · CAT-v1**  
+> **Primary category:** `LLM-SCHEMA` — AI/LLM → Input-Contract Drift.  
+> [Canonical Category Index and Directory](https://github.com/saipradikmallakuntla-tech/zion-ai-apps-hub/blob/main/CATEGORY_INDEX_AND_DIRECTORY.md) · [Seven-node registry](https://github.com/saipradikmallakuntla-tech/zion-ai-apps-hub/blob/main/NETWORK.md) · [Portfolio status](https://github.com/saipradikmallakuntla-tech/zion-ai-apps-hub/blob/main/PORTFOLIO_STATUS.md) · [Locale/review register](https://github.com/saipradikmallakuntla-tech/zion-ai-apps-hub/blob/main/TRANSLATION_PARITY_REGISTER.md).  
+> This owner-approved documentation map covers seven existing owned repositories: one hub and six utilities. Earlier scope statements/counts below are retained dated batch history. Current written coverage is **79 IDs / 237 locale entries total**, not approvals or apps; 48 pre-existing Markdown files plus the new index give 49 files. Category labels classify documentation, not website filters or software. Satellite interfaces remain English-only; human language/domain, receiver and channel decisions remain pending. No code, tests, byte-hash scripts, live checks, external distribution or automatic integration is introduced.
+
 # Tool Schema Drift Auditor
 
 A standalone Batch 99 browser utility for conservative **version-to-version input-schema drift**, not provider dialect portability. **Live:** https://saipradikmallakuntla-tech.github.io/tool-schema-drift-auditor/
